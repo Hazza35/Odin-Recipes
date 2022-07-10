@@ -1,4 +1,6 @@
 .head {
     color: orange;
     font-size: 100px;
+    text-align: center;
+    border: 10px orange;
 }
